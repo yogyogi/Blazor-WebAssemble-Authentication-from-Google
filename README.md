@@ -1,5 +1,10 @@
 # Blazor WebAssemble Authentication from Google
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2024/06/Blazor-webassemble-google-authentication.png" alt="Blazor WebaAsemble Google Authentication"  title="Blazor WebaAsemble Google Authentication">
+
 We are going to implement Authentication from Google feature in a  Blazor WebAssembly app (also known as Google OAuth authentication). We will also implement Oauth 2.0 and JWT Tokens for authentication purpose. The complete tutorial is provided at - <a href="https://www.yogihosting.com/blazor-webassembly-google-authentication/">Blazor WebAssemble Authentication from Google</a>.
+
+<img src="https://www.yogihosting.com/wp-content/uploads/2024/06/Blazor-webassemble-google-authentication.png" alt="Blazor WebaAsemble Google Authentication"  title="Blazor WebaAsemble Google Authentication">
 
 # Features
 1. Create Blazor WebAssembly app
