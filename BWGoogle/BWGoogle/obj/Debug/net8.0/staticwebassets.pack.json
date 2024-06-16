@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\obj\\Debug\\net8.0\\compressed\\bqtxfrd00c.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BWGoogle.styles.css",
+      "PackagePath": "staticwebassets\\BWGoogle.styles.css"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Yogesh\\SEO\\Yogihosting\\new\\Blazor WebAssembly Google Authentication\\BWGoogle\\BWGoogle\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BWGoogle.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BWGoogle.props",
+      "PackagePath": "build\\BWGoogle.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BWGoogle.props",
+      "PackagePath": "buildMultiTargeting\\BWGoogle.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BWGoogle.props",
+      "PackagePath": "buildTransitive\\BWGoogle.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
